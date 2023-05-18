@@ -5,7 +5,7 @@ const cross = document.getElementById("cross")
  
 menu.addEventListener("click", function () {
     const minul = document.getElementById("minul")
-    minul.style.top = "-30px"
+    minul.style.top = "-30px" 
 
 })
 cross.addEventListener("click", function () {
